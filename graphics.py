@@ -32,14 +32,9 @@ for eachPoint in drawPointsAvailable:
 png_dir = './saves/png/'
 images = []
 
-# for file_name in os.listdir(png_dir):
-#     if file_name.endswith('.png'):
-#         file_path = os.path.join(png_dir, file_name)
-
 for frame in imagelist:
     images.append(imageio.imread(frame))
 
-# print(imagelist)
 imageio.mimsave('./saves/gif/movie.gif', images)
 
 
