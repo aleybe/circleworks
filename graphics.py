@@ -5,9 +5,6 @@ from PIL import Image, ImageFont, ImageDraw, ImageEnhance
 
 #first test draw based off circle data.
 
-# newImage = Image.new('RGBA', (400, 400), "white")
-
-
 #PIL.ImageDraw.ImageDraw.line(xy, fill=None, width=0)
 #xy – Sequence of either 2-tuples like [(x, y), (x, y), ...] or numeric values like [x, y, x, y, ...].
 #xy will have to contain details from circlecalc.circleObjects.AnglePoints()
