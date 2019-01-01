@@ -1,5 +1,5 @@
 # circleworks
-Circle works is just a small program I have been putting together to practive my mathematics and python skills. Aswell as developing more presence on GitHub.
+Circle works is just a small program I have been putting together to practice my mathematics and python skills. Aswell as developing more presence on GitHub.
 
 ### Example :
 
